@@ -2,7 +2,7 @@
 
 ## Overview of Analysis:
 ###
-As stated in the beginning of Challenge 17, credit risk is an inherently unbalanced classification problem, as good loans easily outnumber bad ones.  The purpose of this analysis is to use machine learning technics of RandomOverSampling, UnderSampling, SMOTE and SMOTEENN algorithms, BalancedRandomForestClassifier, EasyEnsembleClassifier and imbalanced-learn and scikit-learn libraries to build and evaluate models to measure credit risk.
+As stated in the beginning of Challenge 17, credit risk is an inherently unbalanced classification problem, as good loans easily outnumber bad ones.  The purpose of this analysis is to use machine learning technics of RandomOverSampling, UnderSampling, SMOTE and SMOTEENN algorithms, BalancedRandomForestClassifier, EasyEnsembleClassifier and imbalanced-learn and scikit-learn libraries to build and evaluate models to measure credit risk for credit card application.s
 
 ## Results of Analysis:
 ###
