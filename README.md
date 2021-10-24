@@ -6,7 +6,7 @@ As stated in the beginning of Challenge 17, credit risk is an inherently unbalan
 
 ## Results of Analysis:
 ###
-As 
+
 **Credit Risk Resampling:**
 
 **Native Random OverSampling:****
