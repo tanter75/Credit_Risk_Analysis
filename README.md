@@ -13,37 +13,42 @@ As stated in the beginning of Challenge 17, credit risk is an inherently unbalan
 - Balanced accuracy score: 0.6502
 - High risk loans: Precision: 0.01  Recall: 0.69
 - Low risk loans:  Precision: 1.00  Recall: 0.61
-- Combined precision: 0.99  Recall:  0.61
+- Average precision: 0.99  Recall:  0.61
 ![image](https://user-images.githubusercontent.com/86161212/138574845-fb4c3658-15eb-494d-86cf-c44a3093bb8d.png)
+
 **SMOTE OverSampling:**
 - Balanced accuracy score: 0.6623
 - High risk loans: Precision: 0.01  Recall: 0.63
 - Low risk loans:  Precision: 1.00  Recall: 0.69
-- Combined precision: 0.99  Recall:  0.69
+- Average precision: 0.99  Recall:  0.69
 ![image](https://user-images.githubusercontent.com/86161212/138574973-4c07f7c5-f6ae-4038-b7bb-e8b504c08acd.png)
+
 **UnderSampling using ClusterCentroids resampler:**
 - Balanced accuarcy score: 0.5443
 - High risk loans: Precision: 0.01  Recall: 0.69
 - Low risk loans:  Precision: 1.00  Recall: 0.40
-- Combined precision: 0.99  Recall:  0.40
+- Average precision: 0.99  Recall:  0.40
 ![image](https://user-images.githubusercontent.com/86161212/138574993-0adc2716-3183-452d-83b3-055c6ba35c31.png)
+
 **Combination (Over and Under) Sampling (SMOTEENN):**
 - Balanced accuracy rate: 0.6514
 - High risk loans: Precision: 0.01  Recall: 0.72
 - Low risk loans:  Precision: 1.00  Recall: 0.58
-- Combined precision: 0.99  Recall:  0.58
+- Average precision: 0.99  Recall:  0.58
 ![image](https://user-images.githubusercontent.com/86161212/138575018-a787c61b-4475-4c88-8e37-d5cfacb1cf7c.png)
+
 **Balanced Random Forest Classifier:**
 - Balanced accuracy rate: 0.7885
 - High risk loans: Precision: 0.03  Recall: 0.70
 - Low risk loans:  Precision: 1.00  Recall: 0.87
-- Combined precision: 0.99  Recall:  0.87
+- Average precision: 0.99  Recall:  0.87
 ![image](https://user-images.githubusercontent.com/86161212/138575039-7d2c6a6d-8e06-4304-8b83-7063777b4032.png)
+
 **Easy Ensemble AdaBoost Classifier:**
 - Balanced accuracy score: 0.9155
 - High risk loans: Precision: 0.05  Recall: 0.93
 - Low risk loans:  Precision: 1.00  Recall: 0.90
-- Combined precision: 0.99  Recall:  0.90
+- Average precision: 0.99  Recall:  0.90
 ![image](https://user-images.githubusercontent.com/86161212/138575090-631ceb53-07e1-4669-949b-d81a1d2d88a6.png)
 
 ## Summary of Analysis:
